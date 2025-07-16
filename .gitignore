@@ -205,3 +205,7 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# some big files
+tests/MPCORB.csv
+tests/tns_public_objects.csv
